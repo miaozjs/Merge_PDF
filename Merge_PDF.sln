@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge_PDF", "Merge_PDF\Merge_PDF.csproj", "{031802AC-ED88-48CC-BC94-B4CCE1E4D8F7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "pdf合并小工具", "pdf合并小工具\pdf合并小工具.vdproj", "{DDD73269-FCA3-4A5B-B82E-61A53A119D08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031802AC-ED88-48CC-BC94-B4CCE1E4D8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031802AC-ED88-48CC-BC94-B4CCE1E4D8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031802AC-ED88-48CC-BC94-B4CCE1E4D8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031802AC-ED88-48CC-BC94-B4CCE1E4D8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD73269-FCA3-4A5B-B82E-61A53A119D08}.Debug|Any CPU.ActiveCfg = Debug
+		{DDD73269-FCA3-4A5B-B82E-61A53A119D08}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C732B194-DF8C-4B2B-86B6-76A6F1F5302A}
+	EndGlobalSection
+EndGlobal
