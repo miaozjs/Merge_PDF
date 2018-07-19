@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.merge_btn = new System.Windows.Forms.Button();
+            this.Merge_btn = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.fileload_A = new System.Windows.Forms.TextBox();
             this.fileload_B = new System.Windows.Forms.TextBox();
@@ -38,15 +38,15 @@
             this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // merge_btn
+            // Merge_btn
             // 
-            this.merge_btn.Location = new System.Drawing.Point(275, 315);
-            this.merge_btn.Name = "merge_btn";
-            this.merge_btn.Size = new System.Drawing.Size(108, 38);
-            this.merge_btn.TabIndex = 0;
-            this.merge_btn.Text = "开始合并";
-            this.merge_btn.UseVisualStyleBackColor = true;
-            this.merge_btn.Click += new System.EventHandler(this.merge_btn_Click);
+            this.Merge_btn.Location = new System.Drawing.Point(275, 315);
+            this.Merge_btn.Name = "Merge_btn";
+            this.Merge_btn.Size = new System.Drawing.Size(108, 38);
+            this.Merge_btn.TabIndex = 0;
+            this.Merge_btn.Text = "开始合并";
+            this.Merge_btn.UseVisualStyleBackColor = true;
+            this.Merge_btn.Click += new System.EventHandler(this.Merge_btn_Click);
             // 
             // label1
             // 
@@ -117,7 +117,7 @@
             this.Controls.Add(this.fileload_B);
             this.Controls.Add(this.fileload_A);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.merge_btn);
+            this.Controls.Add(this.Merge_btn);
             this.Name = "Merge_Form";
             this.Text = "合并";
             this.ResumeLayout(false);
@@ -127,7 +127,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button merge_btn;
+        private System.Windows.Forms.Button Merge_btn;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox fileload_A;
         private System.Windows.Forms.TextBox fileload_B;

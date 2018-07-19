@@ -9,3 +9,14 @@ C:\Code Belief\VisualStudioProjects\Merge_PDF\Merge_PDF\obj\Debug\Merge_PDF.pdb
 C:\Code Belief\VisualStudioProjects\Merge_PDF\Merge_PDF\obj\Debug\Merge_PDF.Merge_Form.resources
 C:\Code Belief\VisualStudioProjects\Merge_PDF\Merge_PDF\bin\Debug\itextsharp.dll
 C:\Code Belief\VisualStudioProjects\Merge_PDF\Merge_PDF\obj\Debug\Merge_PDF.csproj.CopyComplete
+C:\Code Belief\GithubProjects\Merge_PDF\Merge_PDF\bin\Debug\Merge_PDF.exe.config
+C:\Code Belief\GithubProjects\Merge_PDF\Merge_PDF\bin\Debug\Merge_PDF.exe
+C:\Code Belief\GithubProjects\Merge_PDF\Merge_PDF\bin\Debug\Merge_PDF.pdb
+C:\Code Belief\GithubProjects\Merge_PDF\Merge_PDF\obj\Debug\Merge_PDF.csprojAssemblyReference.cache
+C:\Code Belief\GithubProjects\Merge_PDF\Merge_PDF\obj\Debug\Merge_PDF.Merge_Form.resources
+C:\Code Belief\GithubProjects\Merge_PDF\Merge_PDF\obj\Debug\Merge_PDF.Properties.Resources.resources
+C:\Code Belief\GithubProjects\Merge_PDF\Merge_PDF\obj\Debug\Merge_PDF.csproj.GenerateResource.cache
+C:\Code Belief\GithubProjects\Merge_PDF\Merge_PDF\obj\Debug\Merge_PDF.csproj.CoreCompileInputs.cache
+C:\Code Belief\GithubProjects\Merge_PDF\Merge_PDF\obj\Debug\Merge_PDF.csproj.CopyComplete
+C:\Code Belief\GithubProjects\Merge_PDF\Merge_PDF\obj\Debug\Merge_PDF.exe
+C:\Code Belief\GithubProjects\Merge_PDF\Merge_PDF\obj\Debug\Merge_PDF.pdb
